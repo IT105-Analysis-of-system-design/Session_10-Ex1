@@ -50,12 +50,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="guard1" parent="1" style="text;html=1;align=left;verticalAlign=top;fontStyle=2;fontSize=12;" value="Thông tin hợp lệ" vertex="1">
-          <mxGeometry height="20" width="200" x="565" y="325" as="geometry" />
+          <mxGeometry height="20" width="200" x="220" y="325" as="geometry" />
         </mxCell>
-        <mxCell id="guard2" parent="1" style="text;html=1;align=left;verticalAlign=top;fontStyle=2;fontSize=12;" value="Thông tin không hợp lệ" vertex="1">
-          <mxGeometry height="20" width="220" x="565" y="460" as="geometry" />
+        <mxCell id="guard2" parent="1" style="text;html=1;align=left;verticalAlign=top;fontStyle=2;fontSize=12;" value="else :Thông tin không hợp lệ" vertex="1">
+          <mxGeometry height="20" width="220" x="170" y="465" as="geometry" />
         </mxCell>
-        <mxCell id="msg1" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;endFill=1;endSize=10;fontSize=11;" value="nhapThongTin(username, password)">
+        <mxCell id="msg1" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;endFill=1;endSize=10;fontSize=11;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;nhập Thông Tin (username, password)">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="150" as="sourcePoint" />
             <mxPoint x="615" y="150" as="targetPoint" />
